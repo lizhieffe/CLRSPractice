@@ -4,6 +4,12 @@ import java.util.ArrayList;
 
 import Util.TreeNode;
 
+/**
+ * the idea is from:
+ * http://stackoverflow.com/questions/3628718/find-the-2nd-largest-element-in-an-array-with-minimum-of-comparisom
+ * @author zhili
+ *
+ */
 public class FindSecondMin {
 	
 	int findSecondMin(int[] array) {
